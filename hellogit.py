@@ -1,2 +1,1 @@
-print("Hola mundo")
-print("Como vas?")
+print("Se Actualiza el texto del fichero")
