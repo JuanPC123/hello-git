@@ -30,7 +30,7 @@ class PasswordManager:
 
 #  >:3
 if __name__ == "__main__":
-   
+
     password = input("Ingrese una contraseña: ")
     manager = PasswordManager(password)
 
